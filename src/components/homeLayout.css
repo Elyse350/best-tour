@@ -282,7 +282,7 @@ animation-timing-function:ease-in-out ;
   padding: 20px;
   border-radius: 10px;
 }
-button {
+.form-1 button {
   width: 55%;
   height: 40px;
   background: white;
@@ -291,7 +291,7 @@ button {
   border-radius: 20px;
   border-color: #195f20;
 }
-button a {
+.form-1 button a {
   color: #195f20;
   font-size: 20px;
   text-decoration: none;
