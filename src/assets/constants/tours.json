@@ -1,0 +1,70 @@
+[
+    {
+        "tittle":"LAKE KIVU",
+         "description":"Culpa eu velit sint labore officia mollit ullamco culpa nulla dolore enim. Sunt reprehenderit voluptate in deserunt incididunt velit aliqua dolor consectetur eiusmod cupidatat reprehenderit. Nostrud nostrud laboris ullamco voluptate anim excepteur tempor fugiat anim ex cupidatat.",
+         "seats":50,
+         "available":20,
+         "image":["https://media.istockphoto.com/photos/shoreline-of-lake-kivu-congo-africa-picture-id904366394?k=20&m=904366394&s=612x612&w=0&h=4p9nqJQXeFsnCjXtNH3zbKFGxMPUsB7OGX4T2_WVrIo=","https://thumbs.dreamstime.com/b/photo-lake-kivu-landscape-very-nice-i-sure-will-sell-well-looking-view-103411456.jpg"],
+         "datescheduled":"10 august 2010",
+         "duedate":"15 august 2010",
+         "phone":"+250781368638",
+         "price":300, 
+         "sprice":500,
+          "user":{
+            "name":"john smith",
+            "phone":"+250781368638"
+         },
+         "tripDescription":"Lorem consectetur dolore dolor veniam culpa adipisicing culpa. Cupidatat officia amet nulla fugiat ea magna proident duis velit excepteur non aliqua elit. Qui laboris ullamco adipisicing reprehenderit nulla duis tempor non ut elit deserunt. Eiusmod ut veniam fugiat adipisicing duis aliqua veniam fugiat. Cillum consequat ad laboris veniam incididunt quis fugiat ullamco sint. Adipisicing est sit nisi nisi id ad nisi ad officia duis mollit reprehenderit. Labore magna excepteur incididunt esse Lorem elit nostrud."
+       },
+     {
+        "tittle":"NYUNGWE PARK",
+         "description":"Culpa eu velit sint labore officia mollit ullamco culpa nulla dolore enim. Sunt reprehenderit voluptate in deserunt incididunt velit aliqua dolor consectetur eiusmod cupidatat reprehenderit. Nostrud nostrud laboris ullamco voluptate anim excepteur tempor fugiat anim ex cupidatat.",
+         "seats":20,
+         "available":15,
+         "image":["https://www.explorerwandatours.com/wp-content/uploads/2017/08/canopy-walk-nyungwe-750x450.jpeg"],
+         "datescheduled":"29 june 2010",
+         "duedate":"11july 2010",
+         "phone":"+250781368638",
+         "price":300, 
+         "sprice":500,
+         "user":{
+            "name":"john smith",
+            "phone":"+250781368638"
+         },
+         "tripDescription":"Lorem consectetur dolore dolor veniam culpa adipisicing culpa. Cupidatat officia amet nulla fugiat ea magna proident duis velit excepteur non aliqua elit. Qui laboris ullamco adipisicing reprehenderit nulla duis tempor non ut elit deserunt. Eiusmod ut veniam fugiat adipisicing duis aliqua veniam fugiat. Cillum consequat ad laboris veniam incididunt quis fugiat ullamco sint. Adipisicing est sit nisi nisi id ad nisi ad officia duis mollit reprehenderit. Labore magna excepteur incididunt esse Lorem elit nostrud."
+        },
+     {
+        "tittle":"AKAGERA NATIONAL PARK",
+         "description":"Culpa eu velit sint labore officia mollit ullamco culpa nulla dolore enim. Sunt reprehenderit voluptate in deserunt incididunt velit aliqua dolor consectetur eiusmod cupidatat reprehenderit. Nostrud nostrud laboris ullamco voluptate anim excepteur tempor fugiat anim ex cupidatat.",
+         "seats":70,
+         "available":50,
+         "image":["https://www.kagerasafaris.com/wp-content/uploads/2018/02/akagera-park-game-640x427.jpg","https://www.africanparks.org/sites/default/files/2017-07/akagera.jpg"],
+         "datescheduled":"21 jan 2010",
+         "duedate":"1 feb 2010",
+         "phone":"+250781368638",
+         "price":"300" ,
+         "sprice":"500",
+         "user":{
+            "name":"john smith",
+            "phone":"+250781368638"
+         },
+         "tripDescription":"Lorem consectetur dolore dolor veniam culpa adipisicing culpa. Cupidatat officia amet nulla fugiat ea magna proident duis velit excepteur non aliqua elit. Qui laboris ullamco adipisicing reprehenderit nulla duis tempor non ut elit deserunt. Eiusmod ut veniam fugiat adipisicing duis aliqua veniam fugiat. Cillum consequat ad laboris veniam incididunt quis fugiat ullamco sint. Adipisicing est sit nisi nisi id ad nisi ad officia duis mollit reprehenderit. Labore magna excepteur incididunt esse Lorem elit nostrud."
+        },
+     {
+        "tittle":"GAKO FOREST",
+         "description":"Culpa eu velit sint labore officia mollit ullamco culpa nulla dolore enim. Sunt reprehenderit voluptate in deserunt incididunt velit aliqua dolor consectetur eiusmod cupidatat reprehenderit. Nostrud nostrud laboris ullamco voluptate anim excepteur tempor fugiat anim ex cupidatat.",
+         "seats":10,
+         "available":5,
+         "image":["https://imgmedia.lbb.in/media/2019/02/5c769f19c26f9150c442d101_1551277849650.jpg","http://fortuneofafrica.com/rwanda/wp-content/uploads/sites/11/2014/01/forests-in-rwanda.jpg"],
+         "datescheduled":"1 december 2010",
+         "duedate":"15 december 2010",
+         "phone":"+250781368638",
+         "price":"300" ,
+         "sprice":"500",
+         "user":{
+            "name":"john smith",
+            "phone":"+250781368638"
+         },
+         "tripDescription":"Lorem consectetur dolore dolor veniam culpa adipisicing culpa. Cupidatat officia amet nulla fugiat ea magna proident duis velit excepteur non aliqua elit. Qui laboris ullamco adipisicing reprehenderit nulla duis tempor non ut elit deserunt. Eiusmod ut veniam fugiat adipisicing duis aliqua veniam fugiat. Cillum consequat ad laboris veniam incididunt quis fugiat ullamco sint. Adipisicing est sit nisi nisi id ad nisi ad officia duis mollit reprehenderit. Labore magna excepteur incididunt esse Lorem elit nostrud."
+    }
+]

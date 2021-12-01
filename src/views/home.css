@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .home-container{
+    background-image: linear-gradient(
+        to top,
+        rgba(7, 51, 20, 0.623) 50%,
+        rgba(7, 51, 20, 0.623) 50%
+      ),url(../assets/image/kivu.jpg);
+      background-repeat: no-repeat;
+      background-size:contain;
+      object-fit: contain;
+      /* background-attachment: fixed; */
+      
+      /* background-position:cover;
+    height: 160vh;
+    width: 100%; */
+/* }  */
+
+/* .home-container h1{
+    font-family: sans-serif; 
+    font-size: 80px;
+    font-weight:bolder;
+    margin-top: 50px;
+    text-align: center;
+    color:white;
+    text-shadow:2PX 2PX 10PX rgb(37, 35, 35);
+}
+.form{
+    width: 20%;
+    height: 50%;
+    background-color: tomato;
+    float: right;
+    margin-left:100px; */
+/* } */
+    
