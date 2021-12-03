@@ -9,6 +9,11 @@ const Home = () => {
     <HomeLayout>
       <div className="home-container">
         <div className="home">
+        <div class="search">
+                    <input class="srch" type="search" name="" placeholder="type to text"/>
+                    <a href="#"><button class="btn">search</button></a>
+
+                </div>
         <h1>RWANDA BOOKING TOUR</h1>
         <div className="title">
           <h2> VISIT RWANDA</h2>
@@ -48,7 +53,9 @@ const Home = () => {
         </div>
         <div style={{ clear: "both" }}></div>
         <div class="sub-container">
-        <div class="tour-container">
+         
+        <div class="tour-container"> 
+        
           <h1>Book Your Tour Now</h1>
           <label for="tour">Tour categories:</label>
           <br />
@@ -72,6 +79,7 @@ const Home = () => {
             <option value="Mountain">Mountain</option>
           </select>
         </div>
+        
         <div class="form-1">
         <p class="par">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />

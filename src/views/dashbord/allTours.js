@@ -5,10 +5,10 @@ import { Table, Tag, Space } from 'antd';
 import AllavailableTours from "../../assets/constants/tours.json";
 import Alluserstour from "../../assets/constants/users.json"
 import DashLayout from "../../components/dashboardlayout";
-import {EditOutlined,DeleteOutlined,} from '@ant-design/icons';
+import {EditOutlined,DeleteOutlined,EyeOutlined} from '@ant-design/icons';
 
 const { Column, ColumnGroup } = Table;
-<h1>all tours available</h1>
+
 const column = [
 
   {
@@ -41,7 +41,7 @@ const column = [
   key: 'action',
   render: () => (
     <Space size="middle">
-      <a>view</a>
+      <a><EyeOutlined /></a>
       <a><EditOutlined /></a>
       <a><DeleteOutlined /> </a>
       </Space>
@@ -49,7 +49,7 @@ const column = [
 }
 
 ];
-<h1>All users </h1>
+
 const data = [
 
     {
@@ -95,7 +95,9 @@ const AllTours =()=>{
 
     return(
         <>
+        <h1 style={{textAlign:"center",fontSize:"large",color:"blue"}}>ALL AVAILABLE TOURS</h1>
        <Table columns={column} dataSource={AllavailableTours}/>
+       <h1 style={{textAlign:"center",fontSize:"large",color:"blue"}}>ALL USERS THAT LONGED IN </h1>
        <Table columns={data} dataSource={Alluserstour}/>
        </>
     );
