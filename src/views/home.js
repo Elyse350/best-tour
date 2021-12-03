@@ -77,7 +77,8 @@ const Home = () => {
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
           Maiores eligendi mollitia soluta nam adipisci laudantium vitae nihil
           <br />
-          magni illo ipsa amet minima rerum ex ad, cum ut magnam delectus. Modi.
+          magni illo ipsa amet minima rerum ex ad, cum ut magnam delectus. Modi.<br/>Labore do esse velit ullamco ea.Cillum<br/>
+           pariatur exercitation deserunt sunt id mollit nisi sunt.
         </p>
         <button class="button"><a href="./tour">BOOK NOW!</a></button>
         </div>

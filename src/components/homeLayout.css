@@ -79,7 +79,7 @@ animation-timing-function:ease-in-out ;
   font-family: sans-serif; 
   font-size: 80px;
   font-weight:bolder;
-  margin-top: 100px;
+  /* margin-top: 100px; */
   text-align: center;
   color:white;
   text-shadow:5px 10px 20px rgb(22, 21, 21);
@@ -160,8 +160,8 @@ animation-timing-function:ease-in-out ;
   height: 80vh;
   background:url(../assets/image/1.jpg);
   float: right;
-  margin-right:150px;
-  margin-bottom: 450px;
+  /* margin-right:150px; */
+  /* margin-bottom: 450px; */
   animation:slide 20s infinite  ;
 }
   @keyframes slide {
@@ -272,7 +272,7 @@ animation-timing-function:ease-in-out ;
 }
 .form-1 {
   width: 25%;
-  height: 380px;
+  /* height: 380px; */
   background: rgba(15, 68, 10, 0.493);
   position: absolute;
   left: 1100px;
@@ -286,7 +286,8 @@ animation-timing-function:ease-in-out ;
   width: 55%;
   height: 40px;
   background: white;
-  margin-top: 230px;
+  /* margin-top: 230px; */
+  /* margin-bottom: 100px; */
   margin-left: 70px;
   border-radius: 20px;
   border-color: #195f20;

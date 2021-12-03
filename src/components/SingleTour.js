@@ -5,7 +5,7 @@ import Slider from "./slider/slider";
 const SingleTour = ({ tour }) => {
   return (
     <div className="SingleTour-container">
-      <Slider />
+     
       <h1>{tour.tittle}</h1>
       <p>{tour.description}</p>
 
@@ -58,6 +58,17 @@ const SingleTour = ({ tour }) => {
           <br />
           morning breakfast
         </span>
+       
+      </div>
+      <button  style={{marginLeft:"50px",marginTop:"50px",border:"30px",width:"50%"}}>Book now</button>
+      <Slider />
+      <h1>Gallery</h1>
+      <div className="galley">
+        {
+          tour.image.map((image)=>(
+            <img scr={image}></img>
+          ))
+        }
       </div>
     </div>
   );
